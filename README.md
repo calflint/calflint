@@ -1,42 +1,18 @@
-- 👋 I'm Caleb — a Systems Administrator based in Dubai who can't leave well enough alone.
+# Caleb Arthur-Flints
 
-My day job is keeping infrastructure running at True Gamers. Outside of that I'm knee-deep in AI, automation, and building things — n8n workflows, self-hosted servers, AI agents, whatever's interesting that week. I like taking an idea from nothing and shipping it as something people can actually use.
+I build AI systems that do real work: LLM agents, MCP servers and n8n automations running on live businesses. I'm based in Dubai, where I also lead IT for an 18-branch gaming company.
 
-**About me:**
-💻 Systems Administrator at True Gamers, Dubai
-🤖 Deep into AI — not just using it, building with it
-⚙️ Automation is basically a hobby at this point
-☁️ Picking up Cloud & DevOps as I go
-🌐 Building web apps and small SaaS projects
-💡 I'd rather ship a rough version than talk about a perfect one
+## What I've built
 
-**What I'm working on right now:**
-10 Projects in the pipeline - In private and test mode.
-AI-powered automation
-n8n workflows
-Specialist in WordPress / WooCommerce builds
-Infrastructure automation, Docker, self-hosting
-GitHub Actions
-A handful of things I'm building from scratch
+- **[vid-to-skill](https://github.com/calflint/vid-to-skill)**: a Claude Code plugin that watches a video (frames and audio together), writes down what's in it, and can turn it into a new Claude Skill. It scored 100% on my extraction benchmark, up from 57%.
+- **[VibeSnip](https://github.com/calflint/vibesnip)**: a free WordPress plugin for AI-written code snippets. Every snippet is checked before it runs and switched off if it breaks the site.
+- **Keelhob** (private for now): an MCP server with 68 tools that lets Claude, GPT or Gemini run a live WooCommerce store. Risky permissions are off by default, and it rolls back any change that breaks the site.
+- **Lead-to-booking pipeline**: n8n, Airtable, Cal.com and Telegram take a web enquiry to a booked appointment with no manual steps. It is live at desertdriftkings.com.
 
-**Tech I actually use:**
-**Infrastructure:** Linux, Windows Server, Hyper-V, Docker, VMware 
-**Development:** JavaScript, TypeScript, React, Next.js, Node.js, PHP 
-**Automation:** n8n, GitHub Actions, APIs, webhooks 
-**Databases:** MySQL, MariaDB, PostgreSQL 
-**AI:** OpenAI's API, Claude, prompt engineering, AI-driven automation
+## Tools I use every day
 
-**Projects**
-AI Projects : 15+
-Automation Projects: 6+
-Infrastructure Projects: 3+
-Web Projects: 20+
-Open Source Contributions: 0
+Claude and OpenAI APIs, MCP, n8n, TypeScript, Next.js, Python, PHP, PostgreSQL, Docker, and Windows Server and Linux.
 
-I build practical technology by combining infrastructure, automation, AI, and software engineering.
+## Contact
 
-Building ideas into reality through technology.
-
-**Currently learning:** AI agents, MCP, Kubernetes, Cloud infrastructure, LLM engineering
-
-**Outside of work:**🏎️ Sim racing, 🎮 gaming, 📖 reading way too much about AI, 🔧 side projects that never quite end.
+[LinkedIn](https://linkedin.com/in/cal-flints) · sammyarthurflints@gmail.com
